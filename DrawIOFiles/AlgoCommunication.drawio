@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Página-1" id="DvAADKjf4am4AXz_w_2m">
-    <mxGraphModel dx="5286" dy="406" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3443" dy="-397" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,9 +208,6 @@
         <mxCell id="fLMCegYD0Tb1E4QCByGs-62" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" parent="1" vertex="1">
           <mxGeometry x="1355" y="1538.38" width="29" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="fLMCegYD0Tb1E4QCByGs-63" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" parent="1" vertex="1">
-          <mxGeometry x="1553" y="1773.25" width="29" height="29" as="geometry" />
-        </mxCell>
         <mxCell id="fLMCegYD0Tb1E4QCByGs-65" value="Write Merged Eligibilities&lt;div&gt;Table on consume zone&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
           <mxGeometry x="1497" y="2001" width="59.34" height="64.25" as="geometry" />
         </mxCell>
@@ -219,9 +216,6 @@
         </mxCell>
         <mxCell id="fLMCegYD0Tb1E4QCByGs-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fLMCegYD0Tb1E4QCByGs-18" target="fLMCegYD0Tb1E4QCByGs-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fLMCegYD0Tb1E4QCByGs-68" value="Incluir comunicação manual do bypass, movendo as demais para prioridades menores&amp;nbsp;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
-          <mxGeometry x="1590" y="1544" width="144" height="108" as="geometry" />
         </mxCell>
         <mxCell id="fLMCegYD0Tb1E4QCByGs-69" value="Write Log&lt;div&gt;Weekly Distinct Comms Count&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
           <mxGeometry x="2416" y="1766" width="59.34" height="64.25" as="geometry" />
