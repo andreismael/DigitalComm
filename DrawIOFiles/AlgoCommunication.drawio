@@ -211,7 +211,7 @@
         <mxCell id="fLMCegYD0Tb1E4QCByGs-65" value="Write Merged Eligibilities&lt;div&gt;Table on consume zone&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
           <mxGeometry x="1556" y="2001" width="59.34" height="64.25" as="geometry" />
         </mxCell>
-        <mxCell id="gB1bMh3g8ZrPAFYnOkoU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fLMCegYD0Tb1E4QCByGs-66" target="fLMCegYD0Tb1E4QCByGs-10">
+        <mxCell id="gB1bMh3g8ZrPAFYnOkoU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.017;exitY=0.503;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gB1bMh3g8ZrPAFYnOkoU-17" target="fLMCegYD0Tb1E4QCByGs-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fLMCegYD0Tb1E4QCByGs-66" value="Prepare Data to Sync with Braze" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
